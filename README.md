@@ -1,6 +1,6 @@
-# meu_bolso_seguro_mobile
+# Architecture developed in flutter to adapt to any project. Using the best practices of software development.
 
-A new Flutter application.
+Architecture developed in flutter to adapt to any project. Using the best practices of software development
 
 ## Getting Started
 
