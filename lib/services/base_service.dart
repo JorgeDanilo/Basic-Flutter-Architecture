@@ -1,3 +1,3 @@
 abstract class BaseSevice<T> {
-  validate(T);
+  bool validate(T entity);
 }
